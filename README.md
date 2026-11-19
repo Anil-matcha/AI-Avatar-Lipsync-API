@@ -8,6 +8,7 @@ Synchronize generated speech or supplied audio to supported avatar/video workflo
 
 - [Video-Face-Swap-API](https://github.com/Anil-matcha/Video-Face-Swap-API)
 - [AI-Music-API](https://github.com/Anil-matcha/AI-Music-API)
+- [HeyGen-Avatar-6-API](https://github.com/Anil-matcha/HeyGen-Avatar-6-API)
 
 ## What this API covers
 
